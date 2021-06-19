@@ -1,0 +1,11 @@
+h1{
+    margin:auto 20px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.active{
+    border-bottom: red 5px solid;
+}
+.navbar{
+    padding-bottom: 0;
+}
